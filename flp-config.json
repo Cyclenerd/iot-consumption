@@ -1,0 +1,34 @@
+{
+    "application": {
+        "id": "",
+        "title": "odataconsumption.iot-consumption",
+        "type": "SAP_UI5_Component",
+        "componentUrl": "/webapp",
+        "appUrl": "#iotconsumption-Display",
+        "navigationComponentName": "odataconsumption",
+        "intentSemanticObject": "iot-consumption",
+        "intentAction": "Display",
+        "html5ApplicationName": "iotconsumption",
+        "HCPParentApplicationName": ""
+    },
+    "assignment": {
+        "groups": [
+            "1a26cadd-32a4-4bf3-89f6-3daf6078f1cf"
+        ],
+        "contentPackages": [
+            "edf77d6c-bc67-4758-ad26-8d8acbf67690"
+        ],
+        "categories": []
+    },
+    "tile": {
+        "type": "StaticTile",
+        "title": "Internet of Thinks",
+        "subtitle": "Analysis",
+        "searchKeywords": "Internet of Thinks,Analysis",
+        "displayIconUrl": "sap-icon://area-chart",
+        "displayInfoText": "",
+        "size": "1x1",
+        "serviceURL": "",
+        "refreshInterval": ""
+    }
+}
