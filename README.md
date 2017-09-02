@@ -2,7 +2,9 @@
 
 Modified SAPUI5 (HTML5) app for the built-in MMS OData API from the SAP Cloud Platform Internet of Things (IoT).
 
-The original version is part of the Starter Kit for the [SAP Cloud Platform Internet of Things](https://github.com/SAP/iot-starterkit).
+If you want to get more and detailed information read my [SAP blog post](https://blogs.sap.com/2017/09/02/sapui5-app-for-the-built-in-mms-odata-api-from-the-sap-cloud-iot-for-your-weather-station/).
+
+The original SAPUI5 app is part of the Starter Kit for the [SAP Cloud Platform Internet of Things](https://github.com/SAP/iot-starterkit).
 
 ## Prerequisites
 
@@ -45,7 +47,7 @@ Choose `New Destination` and create two new destination.
 Open the SAP Cloud Platform Cockpit,
 go to `Services` and click on the tile `SAP Web IDE`.
 If you have never used the Web IDE before, you may need to enable it first.
-Click `Open SAP Web IDE`.
+Click `Go to Service`.
 
 In the Web IDE click `File > Git > Clone Repository`. Enter URL `https://github.com/Cyclenerd/iot-consumption.git` and click `Clone`.
 
