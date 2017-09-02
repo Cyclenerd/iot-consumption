@@ -1,6 +1,6 @@
 # Internet of Things Consumption
 
-Modified SAP UI5 app for the built-in MMS OData API from the SAP Cloud Platform Internet of Things (IoT).
+Modified SAPUI5 (HTML5) app for the built-in MMS OData API from the SAP Cloud Platform Internet of Things (IoT).
 
 The original version is part of the Starter Kit for the [SAP Cloud Platform Internet of Things](https://github.com/SAP/iot-starterkit).
 
@@ -51,7 +51,7 @@ In the Web IDE click `File > Git > Clone Repository`. Enter URL `https://github.
 
 The application is now available in your workspace.
 
-### Deploy the Application to HCP
+### Deploy the Application to SAP Cloud Platform
 
 If you want to run the application directly from the SAP Cloud Platform Cockpit, you need to deploy it into your SAP Cloud Platform account.
 
