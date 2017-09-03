@@ -35,12 +35,14 @@ Choose `New Destination` and create two new destination.
 * Name: `iotrdms`
 * Type: `HTTP`
 * Description: `IoT RDMS API`
-* URL: `https://iotmms<ACCOUNT>trial.hanatrial.ondemand.com/com.sap.iotservices.dms`
+* URL: `https://iotrdmsiotservices-<ACCOUNT>trial.hanatrial.ondemand.com/com.sap.iotservices.dms`
 * Proxy Type: `Internet`
 * Authentication: `BasicAuthentication`
 	* Enter your SAP Cloud Platform User and Password
 	* User: `<ACCOUNT>`
 	* Password: `<PASSWORD>`
+
+Check the destinations. URL, User and Password must be correct. Note that `Check Connection` validates only the URL.
 
 ### Import the Application in SAP Web IDE
 
